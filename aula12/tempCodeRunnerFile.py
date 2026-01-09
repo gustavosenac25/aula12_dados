@@ -1,0 +1,1 @@
+print(serie_estoque)
